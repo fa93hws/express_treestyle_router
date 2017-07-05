@@ -1,0 +1,27 @@
+{
+  "name": "express_treestyle_router",
+  "version": "1.0.0",
+  "description": "create a tree style routes for express.js in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fa93hws/express_treestyle_router.git"
+  },
+  "keywords": [
+    "node",
+    "router",
+    "express"
+  ],
+  "author": "fa93hws",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fa93hws/express_treestyle_router/issues"
+  },
+  "homepage": "https://github.com/fa93hws/express_treestyle_router#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
